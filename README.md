@@ -1,6 +1,6 @@
 # @vladfilimon/poloniex-market-spread
 
-> A simple javascript cli Poloniex market spread analyser across all tradable assets
+> A simple experimenal javascript cli Poloniex market spread analyser across all tradable assets
 
 No requirements or dependencies for this one.
 
