@@ -12,6 +12,7 @@ Install & run:
  $ cd poloniex-market-spread
  $ node spread.js
 ```
+
 Options
 -------
 ```
