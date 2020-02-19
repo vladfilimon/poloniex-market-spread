@@ -8,7 +8,7 @@ No requirements or dependencies for this one.
 Install & run:
 -------------
 ```
- $ git clone https://github.com/vladfilimon/poloniex-market-spread.git
+ $ git clone ssh://git@github.com/vladfilimon/poloniex-market-spread
  $ cd poloniex-market-spread
  $ node spread.js
 ```
