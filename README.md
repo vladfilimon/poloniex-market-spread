@@ -1,5 +1,5 @@
 # @vladfilimon/poloniex-market-spread
-This is experimental software
+This is a proof of concept
 
 > A simple experimenal javascript cli Poloniex market spread analyser across all tradable assets
 
