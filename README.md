@@ -24,3 +24,4 @@ Options:
   --include-frozen           Include frozen assets on the exchange
   --include-zero-volume      Include assets with zero market volume
 ```
+This is POC and would not be mentained.
